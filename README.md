@@ -1,5 +1,5 @@
 ## About The E-commerce Project:
-This is s dashborad/ website for Ecommerce where there's different transactions. This is built using Laravel.
+This is a dashborad/ website for Ecommerce where there's different transactions. This is built using Laravel.
 
 ##
 ##
